@@ -20,7 +20,6 @@ This project is bootstraped with expo, it was Udacity's third project in React N
 ## Tech stack 
 * React Native using React Navigation 5
 * Redux
-* Html 
 * Css
 * Javascript
 
